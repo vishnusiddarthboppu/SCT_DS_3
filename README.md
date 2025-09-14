@@ -183,9 +183,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 If you have any questions, feel free to reach out:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: vishnusiddarthboppu@gmail.com
+- **LinkedIn**: www.linkedin.com/in/vishnu-siddarth
+- **GitHub**: https://github.com/vishnusiddarthboppu
 
 ---
 
